@@ -34,14 +34,14 @@ print("Hello, " + name + "! Welcome to the world of Python!")
 - [ ] **Step 5:** _Making the Program Interactive_
       - Now, let's make the program more interactive by adding a prompt for the user to enter their age. Modify the code as follows:
         
-        ```
+```
         # Interactive Hello World Program
         name = input("Enter your name: ")
         age = input("Enter your age: ")
 
         print("Hello, " + name + "! Welcome to the world of Python!")
         print("You are " + age + " years old.")
-        ```
+```
         
       - Save the changes and run the program again. This time, you'll be prompted to enter both your name and age. The program will display your personalized greeting along with your age.
 
