@@ -15,14 +15,13 @@ To complete this lab, you should have basic knowledge of programming concepts an
       - Create a new file and save it with a .py extension. For example, hello_world.py.
 - [ ] **Step 3:** _Writing the Code_
       - Copy and paste the following code into your Python file:
-      
-      ```
-      # Interactive Hello World Program
+ 
+ ```
+# Interactive Hello World Program
+name = input("Enter your name: ")
+print("Hello, " + name + "! Welcome to the world of Python!")
+ ```
 
-      name = input("Enter your name: ")
-
-      print("Hello, " + name + "! Welcome to the world of Python!")
-      ```
 
 - [ ] **Step 4:** _Running the Program_
 - To run the program, follow these steps:
