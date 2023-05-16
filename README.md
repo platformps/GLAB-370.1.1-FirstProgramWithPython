@@ -15,6 +15,7 @@ To complete this lab, you should have basic knowledge of programming concepts an
       - Create a new file and save it with a .py extension. For example, hello_world.py.
 - [ ] **Step 3:** _Writing the Code_
       - Copy and paste the following code into your Python file:
+      
       ```
       # Interactive Hello World Program
 
@@ -33,6 +34,7 @@ To complete this lab, you should have basic knowledge of programming concepts an
 
 - [ ] **Step 5:** _Making the Program Interactive_
       - Now, let's make the program more interactive by adding a prompt for the user to enter their age. Modify the code as follows:
+        
         ```
         # Interactive Hello World Program
         name = input("Enter your name: ")
