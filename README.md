@@ -42,8 +42,7 @@ print("Hello, " + name + "! Welcome to the world of Python!")
         print("Hello, " + name + "! Welcome to the world of Python!")
         print("You are " + age + " years old.")
 ```
-        
-      - Save the changes and run the program again. This time, you'll be prompted to enter both your name and age. The program will display your personalized greeting along with your age.
+- Save the changes and run the program again. This time, you'll be prompted to enter both your name and age. The program will display your personalized greeting along with your age.
 
 - [ ] **Step 6:** _Your Turn - Create Your Own Program_
 - Congratulations on completing the interactive Hello World program! Now it's time to get creative.
