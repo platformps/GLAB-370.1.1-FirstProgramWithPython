@@ -10,7 +10,10 @@ To complete this lab, you should have basic knowledge of programming concepts an
 
 ### Step 1: Setting Up the Development Environment
 
-Before we begin coding, let's make sure you have Python installed on your computer. Follow the following ACT
+Before we begin coding, let's make sure you have Python installed on your computer. Follow the following 
+
+ACT-370.1.1-InstallingPython
+
 
 
 ### Step 2: Creating a New Python File
