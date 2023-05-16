@@ -60,8 +60,8 @@ Save the changes and run the program again. This time, you'll be prompted to ent
 
 Congratulations on completing the interactive Hello World program! Now it's time to get creative.
 
-- [ ] Think of a simple program idea and try to implement it using Python. Create "Who'll earn 10 points?" game, that will ask two multiple choice questions to user and give total of 5 per right answer
-- [ ] Once you've finished creating your program, save it in a new Python file.
+- [ ] Think of a simple program idea and try to implement it using Python. Create "ai name" game, that will ask two questions, your name based on that it will print your ai name as "ai"+"yourname"
+- [ ] Once you've finished creating your program, save it in a new Python file as ai.py.
 - [ ] Please submit your file
 
 ## Conclusion
